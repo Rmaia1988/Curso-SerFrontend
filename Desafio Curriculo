@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     
-    <title>Document</title>
+    <title>Curriculo</title>
 
     <style>
       
@@ -54,16 +54,16 @@
 
     <h2>Experiência profissional</h2>
 
-    <p><strong><a href="https://www.uol.com.br">Uol</a>12/2014 até 02/2015 - 2 meses</strong></p>
+    <h3><strong><a href="https://www.uol.com.br" target="_blank">Uol</a>12/2014 até 02/2015 - 2 meses</strong></h3>
 
-        <P><strong>Analista Programador - 2 meses</strong></P>
+        <h4><strong>Analista Programador - 2 meses</strong></h4>
         
         <P>Desenvolvimento de aplicações web com HTML, CSS, AngularJS, Javascript, Ajax, Rest, JSON, PHP.</p>
 
     
-    <p><strong><a href="https://www.terra.com.br">Terra</a>- 1 ano</strong></p>
+    <h3><strong><a href="https://www.terra.com.br" target="_blank">Terra</a>- 1 ano</strong></h3>
 
-        <P><strong>Desenvolvedor Front End - 1 ano</strong></P>
+        <h4><strong>Desenvolvedor Front End - 1 ano</strong></h4>
         
         <P>Atuei como Desenvolvedor Front-End Pleno, participando ativamente em todos os projetos da empresa (aplicação WEB, aplicativo Mobile e Portais).</P>
         
@@ -71,23 +71,25 @@
         
         
 
-    <p><strong><a href="https://g1.globo.com">G1</a> 6 meses</strong></p>
+    <h3><strong><a href="https://g1.globo.com" target="_blank">G1</a> 6 meses</strong></h3>
 
-        <P><strong>Desenvolvedor Front End - 6 meses</strong></P>
+        <h4><strong>Desenvolvedor Front End - 6 meses</strong></h4>
         
         <P>Trabalhando com portais, landing pages e eCommerce, codando manualmente HTML, CSS, JavaScript, trabalhando diretamente com a equipe de Back-End com PHP.</p>
 
     <H2>Formação</H2>
 
-        <P><strong>Graduação em Tecnologia da Informação</strong></P>
+        <h3><strong>Graduação em Tecnologia da Informação</strong></h3>
 
         <P>01/2010 a 12/2012</P>
 
         <P>Faculdade qualquer uma</P>
 
-        <P><strong>Pós-graduação em Projetos computacionais em tecnologias front-end</strong></P>
+        <h3><strong>Pós-graduação em Projetos computacionais em tecnologias front-end</strong></h3>
 
         <p>08/2014 a 12/2015</p>
+
+        <P>Faculdade qualquer uma</P>
 
     <h2>Cursos / Especializações</h2>
 
@@ -99,21 +101,21 @@
         
     </ul>
 
-    <p><strong>HTML5</strong></p>
+    <h3><strong>HTML5</strong></h3>
 
-    serfrontend - 40h - 2022
+    <p>serfrontend - 40h - 2022</p>
 
-    <p><strong>Javascript</strong></p>
+    <h3><strong>Javascript</strong></h3>
 
-    serfrontend - 40h - 2022
+    <p>serfrontend - 40h - 2022</p>
 
-    <p><strong>CSS3</strong></p>
+    <h3><strong>CSS3</strong></h3>
 
-    serfrontend - 40h - 2022
+    <p>serfrontend - 40h - 2022</p>
 
-    <p><strong>Idiomas</strong></p>
+    <h3><strong>Idiomas</strong></h3>
 
-    Inglês: Básico
+    <p>Inglês: Básico</p>
 
 
 </body>
