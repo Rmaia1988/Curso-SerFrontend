@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Document</title>
+
+    <style>
+      
+      body {
+        font-family: Arial, Helvetica, sans-serif ;
+        font-style: normal;
+        background-color: rgb(211, 207, 207);
+        margin-left: 50px;
+        margin-right: 50px;
+        }
+        h1{
+            background-color: rgb(156, 179, 212);
+            border-style: 100px;
+            text-align: center;
+            padding: 10px;
+            
+
+        }
+
+        .dados {
+            text-align: center;
+        }
+
+        h2{
+            background-color: rgb(165, 162, 162);
+            border-bottom-style: solid;
+            padding: 10px;
+        }
+
+        p{
+            text-align: justify;
+
+        }
+        
+
+        
+    </style>
+
+</head>
+<body>
+    <h1 >Robert dos Santos Maia</h1>
+    
+    <p class="dados">Brasileiro, solteiro, 34 anos.</p>
+
+    <h2>Objetivo</h2>
+    
+    <p>Front-End Developer, Desenvolvedor Front End, Webdesigner</p>
+
+    <h2>Experiência profissional</h2>
+
+    <p><strong><a href="https://www.uol.com.br">Uol</a>12/2014 até 02/2015 - 2 meses</strong></p>
+
+        <P><strong>Analista Programador - 2 meses</strong></P>
+        
+        <P>Desenvolvimento de aplicações web com HTML, CSS, AngularJS, Javascript, Ajax, Rest, JSON, PHP.</p>
+
+    
+    <p><strong><a href="https://www.terra.com.br">Terra</a>- 1 ano</strong></p>
+
+        <P><strong>Desenvolvedor Front End - 1 ano</strong></P>
+        
+        <P>Atuei como Desenvolvedor Front-End Pleno, participando ativamente em todos os projetos da empresa (aplicação WEB, aplicativo Mobile e Portais).</P>
+        
+        <P>Trabalhei efetivamente usando tecnologias como HTML5, CSS, AngularJS, Wordpress, PHP, JSON e Javascript.</P>
+        
+        
+
+    <p><strong><a href="https://g1.globo.com">G1</a> 6 meses</strong></p>
+
+        <P><strong>Desenvolvedor Front End - 6 meses</strong></P>
+        
+        <P>Trabalhando com portais, landing pages e eCommerce, codando manualmente HTML, CSS, JavaScript, trabalhando diretamente com a equipe de Back-End com PHP.</p>
+
+    <H2>Formação</H2>
+
+        <P><strong>Graduação em Tecnologia da Informação</strong></P>
+
+        <P>01/2010 a 12/2012</P>
+
+        <P>Faculdade qualquer uma</P>
+
+        <P><strong>Pós-graduação em Projetos computacionais em tecnologias front-end</strong></P>
+
+        <p>08/2014 a 12/2015</p>
+
+    <h2>Cursos / Especializações</h2>
+
+    <ul>
+
+        <li>Participação no evento Search Masters Brasil - São Paulo (2014).</li>
+        
+        <li>Certificação em Google Adwords - Google Partners Weekend (2015);</li>
+        
+    </ul>
+
+    <p><strong>HTML5</strong></p>
+
+    serfrontend - 40h - 2022
+
+    <p><strong>Javascript</strong></p>
+
+    serfrontend - 40h - 2022
+
+    <p><strong>CSS3</strong></p>
+
+    serfrontend - 40h - 2022
+
+    <p><strong>Idiomas</strong></p>
+
+    Inglês: Básico
+
+
+</body>
+</html>
